@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1671620494 source:d:\a open source\oop\assignment day3\assignment day3\src\fraction.cpp
+
+1671621941 source:d:\a open source\oop\assignment day3\assignment day3\main.cpp
+	<iostream>
+	"fraction.h"
+
+1671623761 d:\a open source\oop\assignment day3\assignment day3\include\fraction.h
+	<iostream>
+
